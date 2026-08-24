@@ -150,3 +150,28 @@ Candidates:
 - `08_calm_storyteller_expressive.mp3` - Fish reference `658013ec03ca4e6894e1570f351c3533`; calm but more expressive storyteller.
 - `09_calm_guy_smooth_confident.mp3` - Fish reference `5b8bc51d21494a1eba7ffba579c4cdad`; smooth, calm, confident.
 - `10_history_warm_deep.mp3` - Fish reference `783e4bc723494007a7d84c458d14d1ba`; deeper, warm, story/history feel.
+
+## 2026-08-24 Lively Human Fish Audition Pack
+
+Target direction:
+
+Broader male audition set for a more human, lively Roman Financial voice. The goal is not maximum seriousness; the goal is warm credibility, natural energy, and enough expression to hold attention through immigrant-money stories.
+
+Location:
+
+`library/audio/fish_voice_auditions_2026-08-24_lively_human_pack/`
+
+Results copy:
+
+`D:\Ram\projects\projectResults\RomanFinancial\voice_auditions\fish_2026-08-24_lively_human_pack`
+
+Listen first:
+
+- `06_warm_conversational_w2w.mp3`
+- `08_friendly_confident_male.mp3`
+- `10_calm_storyteller_expressive.mp3`
+- `11_calm_guy_smooth_confident.mp3`
+- `12_gilbert_dynamic_young.mp3`
+- `16_adam_friendly_confident.mp3`
+
+See `workflow/voice_selection_research.md` for the research notes and full selection logic.

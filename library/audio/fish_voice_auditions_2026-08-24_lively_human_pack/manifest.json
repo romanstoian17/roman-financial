@@ -1,0 +1,172 @@
+{
+  "created": "2026-08-24",
+  "goal": "Find lively, human-sounding male voices for Roman Financial immigrant-money narration.",
+  "sample_text": "Here is the part nobody tells you when you move to a new country. The first financial goal is not getting rich. It is getting stable. Because once rent, credit, a car payment, and taxes stop surprising you, money finally becomes less emotional. And that is when building wealth starts to feel possible.",
+  "research_summary": [
+    "Best narration voices are clear, warm, credible, and varied in pitch/pace rather than perfectly flat.",
+    "For finance, avoid voices that are only deep/serious; retention usually benefits from conversational energy and controlled emphasis.",
+    "Fish Audio should be used with reference voice plus segmented performance pacing; voice choice alone will not create human delivery."
+  ],
+  "candidates": [
+    {
+      "file": "01_slax_clear_precise.mp3",
+      "fish_reference_id": "c5f56a6cc2ec4fa8920cb4c5889a3fb7",
+      "speed": 0.96,
+      "why": "clear, precise, trusted education baseline",
+      "status": "ok",
+      "size": 333530
+    },
+    {
+      "file": "02_ethan_curious_explainer.mp3",
+      "fish_reference_id": "536d3a5e000945adb7038665781a4aca",
+      "speed": 0.95,
+      "why": "curious explainer, documentary/professional",
+      "status": "ok",
+      "size": 296750
+    },
+    {
+      "file": "03_current_youthful_narrator.mp3",
+      "fish_reference_id": "7e5102e4f5ff4339bc8ad0692279436c",
+      "speed": 0.95,
+      "why": "current selected voice baseline",
+      "status": "ok",
+      "size": 300929
+    },
+    {
+      "file": "04_elite_crisp_energetic.mp3",
+      "fish_reference_id": "d8a1340984ee4b63ad1ffae27a6a4339",
+      "speed": 0.97,
+      "why": "crisp and energetic, lively contrast",
+      "status": "ok",
+      "size": 287137
+    },
+    {
+      "file": "05_alex_fast_social_host.mp3",
+      "fish_reference_id": "52e0660e03fe4f9a8d2336f67cab5440",
+      "speed": 0.94,
+      "why": "energetic social-media host contrast",
+      "status": "ok",
+      "size": 300929
+    },
+    {
+      "file": "06_warm_conversational_w2w.mp3",
+      "fish_reference_id": "4746f1b456494387993af9041d0516c4",
+      "speed": 0.94,
+      "why": "warm, conversational, smooth",
+      "status": "ok",
+      "size": 354010
+    },
+    {
+      "file": "07_authoritative_male_narrator.mp3",
+      "fish_reference_id": "efc2f5153a24463dbfe54acd93a145f8",
+      "speed": 0.93,
+      "why": "warm authoritative narrator",
+      "status": "ok",
+      "size": 312214
+    },
+    {
+      "file": "08_friendly_confident_male.mp3",
+      "fish_reference_id": "69fc4effef064b4495d584e632e92fa6",
+      "speed": 0.96,
+      "why": "friendly and confident",
+      "status": "ok",
+      "size": 311378
+    },
+    {
+      "file": "09_noel_documentary_clear.mp3",
+      "fish_reference_id": "329ff0b9604444ec982526af54630427",
+      "speed": 0.94,
+      "why": "professional documentary clarity",
+      "status": "ok",
+      "size": 280867
+    },
+    {
+      "file": "10_calm_storyteller_expressive.mp3",
+      "fish_reference_id": "658013ec03ca4e6894e1570f351c3533",
+      "speed": 0.94,
+      "why": "calm but expressive storyteller",
+      "status": "ok",
+      "size": 297168
+    },
+    {
+      "file": "11_calm_guy_smooth_confident.mp3",
+      "fish_reference_id": "5b8bc51d21494a1eba7ffba579c4cdad",
+      "speed": 0.95,
+      "why": "smooth, calm, confident",
+      "status": "ok",
+      "size": 316812
+    },
+    {
+      "file": "12_gilbert_dynamic_young.mp3",
+      "fish_reference_id": "d618bfa552454e0180ee2944939f962a",
+      "speed": 0.97,
+      "why": "young, dynamic, expressive",
+      "status": "ok",
+      "size": 292152
+    },
+    {
+      "file": "13_verity_energetic_helper.mp3",
+      "fish_reference_id": "7103a5c12527480f95711bbf713d91f4",
+      "speed": 0.96,
+      "why": "energetic, friendly, animated",
+      "status": "ok",
+      "size": 230712
+    },
+    {
+      "file": "14_verity_bright_confident.mp3",
+      "fish_reference_id": "894f0267a5194c30814e6b15c07da862",
+      "speed": 0.96,
+      "why": "bright, energetic, clear",
+      "status": "ok",
+      "size": 242415
+    },
+    {
+      "file": "15_dynamic_clear_social.mp3",
+      "fish_reference_id": "7ffbc30676794fd989cda022638314b5",
+      "speed": 0.97,
+      "why": "rhythmic, dynamic, expressive",
+      "status": "ok",
+      "size": 289226
+    },
+    {
+      "file": "16_adam_friendly_confident.mp3",
+      "fish_reference_id": "9259a7392c454a1eb6436141abb5a558",
+      "speed": 0.96,
+      "why": "friendly, confident, conversational",
+      "status": "ok",
+      "size": 287972
+    },
+    {
+      "file": "17_stickzy_clear_authoritative.mp3",
+      "fish_reference_id": "55046bd7267d4a618380d1e8f93a056a",
+      "speed": 0.95,
+      "why": "clear, authoritative, smooth",
+      "status": "ok",
+      "size": 285883
+    },
+    {
+      "file": "18_chetak_relaxed_story.mp3",
+      "fish_reference_id": "44b996214285427697767cb469793647",
+      "speed": 0.94,
+      "why": "relaxed, clear storytelling",
+      "status": "ok",
+      "size": 292988
+    },
+    {
+      "file": "19_alex_smooth_medium.mp3",
+      "fish_reference_id": "1d52151a55eb4878a997bd06e816b5f6",
+      "speed": 0.95,
+      "why": "smooth medium-pitched professional",
+      "status": "ok",
+      "size": 304691
+    },
+    {
+      "file": "20_alok_british_professional.mp3",
+      "fish_reference_id": "b7204d4e40ef4a548c7c8547b7f73492",
+      "speed": 0.93,
+      "why": "British, professional, measured",
+      "status": "ok",
+      "size": 295496
+    }
+  ]
+}
