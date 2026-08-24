@@ -2,14 +2,16 @@
 
 ## Current Main Voice
 
-Selected on 2026-08-20:
+Selected on 2026-08-24:
 
 - Engine: Fish Audio
-- Voice: `02_youthful_male_narrator`
-- Fish reference ID: `7e5102e4f5ff4339bc8ad0692279436c`
-- Audition source: `library/audio/fish_voice_auditions_2026-08-20/02_youthful_male_narrator.mp3`
-- Settings: model `s2-pro`, speed `0.96`
-- Direction: friendly, clear, younger explainer.
+- Voice: `17_stickzy_clear_authoritative`
+- Fish reference ID: `55046bd7267d4a618380d1e8f93a056a`
+- Audition source: `library/audio/fish_voice_auditions_2026-08-24_lively_human_pack/17_stickzy_clear_authoritative.mp3`
+- Settings: model `s2-pro`, speed `0.95`
+- Direction: clear, authoritative, smooth, lively enough for immigrant-money explainers.
+- Backup voice: `05_alex_fast_social_host`
+- Backup Fish reference ID: `52e0660e03fe4f9a8d2336f67cab5440`
 
 This voice is now saved in `pipeline_config.json` as the main production voice.
 
