@@ -1,0 +1,40 @@
+{
+  "scenes": [
+    {
+      "id": "s01_hook",
+      "narration": "If mortgage rates are falling, your payment should fall too, right?",
+      "motion": "hold_then_push",
+      "visual": "A Canadian homeowner at a kitchen table looking at a mortgage renewal letter, with a falling rate chart visible outside the window."
+    },
+    {
+      "id": "s02_not_always",
+      "narration": "Not always.",
+      "motion": "push_then_hold",
+      "visual": "Close-up of a renewal letter, calculator, and paused hand, creating a quiet moment of surprise."
+    },
+    {
+      "id": "s03_setup",
+      "narration": "That is the part catching a lot of people off guard. The renewal trap is simple.",
+      "motion": "push_in",
+      "visual": "An old calm mortgage contract transforming into a heavier new renewal notice."
+    },
+    {
+      "id": "s04_mechanism",
+      "narration": "Your new mortgage payment is not compared with the highest rate you saw on the news last year. It is compared with the rate you locked in years ago.",
+      "motion": "pan_right",
+      "visual": "Two mortgage documents side by side, one old and light, one new and heavier, with a blurred rate headline in the background."
+    },
+    {
+      "id": "s05_contradiction",
+      "narration": "So if you bought or renewed when money was unusually cheap, today's rate can be lower than the peak, but still much higher than your old deal.",
+      "motion": "pan_left",
+      "visual": "A simple timeline showing cheap-money years, a high peak, and today's rate still above the old deal."
+    },
+    {
+      "id": "s06_toll_booth",
+      "narration": "Think of it like reaching a toll booth. The road ahead may be cheaper than last month, but still more expensive than the road you were already on.",
+      "motion": "drift",
+      "visual": "A quiet Canadian suburban road leading into a toll booth shaped subtly like a mortgage renewal checkpoint."
+    }
+  ]
+}
