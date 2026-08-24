@@ -1,0 +1,96 @@
+{
+  "channel": {
+    "name": "Roman Financial",
+    "handle_candidates": [
+      "@RomanFinancial",
+      "@RomanFinancialTV",
+      "@RomanFinancialGuide"
+    ],
+    "format": "animated personal-finance explainers",
+    "target_runtime_seconds": 90,
+    "disclaimer": "Educational content only. Not financial, investment, tax, or legal advice."
+  },
+  "character": {
+    "name": "Roman",
+    "role": "calm financial guide",
+    "personality": [
+      "clear",
+      "practical",
+      "skeptical of hype",
+      "warm but direct"
+    ],
+    "visual_prompt": "Roman, a polished animated financial guide in a navy blazer and open-collar white shirt, approachable expression, clean modern finance studio, teal and gold accents, consistent character design, YouTube explainer style, high quality 2D illustration"
+  },
+  "topics": {
+    "pillars": [
+      "personal finance basics",
+      "debt decisions",
+      "investing fundamentals",
+      "tax-aware planning",
+      "small business finance",
+      "money psychology"
+    ],
+    "first_batch": [
+      "Pay off debt or invest first?",
+      "Emergency fund before investing",
+      "The 50/30/20 rule with real numbers",
+      "Compound interest explained",
+      "Credit cards: tool or trap?"
+    ]
+  },
+  "episode": {
+    "default_shape": [
+      "hook",
+      "context",
+      "framework",
+      "worked_example",
+      "common_mistake",
+      "takeaway",
+      "cta"
+    ],
+    "scene_count": 8,
+    "shorts_runtime_seconds": 75,
+    "long_runtime_seconds": 420
+  },
+  "image_generation": {
+    "style": "warm pencil-and-gouache editorial finance explainer, off-white paper texture, visible clean pencil linework, soft painted color washes, adult professional tone, simple readable finance props",
+    "aspect_ratio": "16:9",
+    "style_reference": "workflow/visual_style.md",
+    "sample_reference": "library/style-samples/06_pencil_gouache_hybrid.png",
+    "scene_prompt_template": "Create a Roman Financial YouTube explainer scene in a warm pencil-and-gouache editorial illustration style. Scene: {scene}. Roman: {character}. Mood: {mood}. Use off-white paper texture, visible pencil linework, soft gouache color washes, and the Roman Financial palette: deep navy, teal, muted gold, graphite lines, tiny red accent. Leave clean caption-safe space. No readable text unless explicitly requested."
+  },
+  "tts": {
+    "engine": "fish",
+    "voice_profile": "Fish option 02: youthful male narrator; friendly, clear, younger explainer",
+    "selected_fish_voice": "02_youthful_male_narrator",
+    "fish_reference_id": "7e5102e4f5ff4339bc8ad0692279436c",
+    "fish_model": "s2-pro",
+    "fish_speed": 0.96,
+    "fallback_engine": "edge",
+    "voice": "en-CA-LiamNeural",
+    "edge_rate": "+4%",
+    "edge_pitch": "+2Hz",
+    "edge_volume": "+0%",
+    "output_format": "mp3",
+    "sample_rate": 44100,
+    "mp3_bitrate": 128
+  },
+  "render": {
+    "engine": "static_narrated_slides",
+    "fallback": "ffmpeg",
+    "use_avatar_overlay": false,
+    "workflow_reference": "workflow/narrated_slide_workflow.md",
+    "captions": true,
+    "music_level_db": -24,
+    "voice_level_db": -16
+  },
+  "distribution": {
+    "results_folder": "D:\\Ram\\projects\\projectResults\\RomanFinancial"
+  },
+  "approval_gates": [
+    "topic",
+    "script",
+    "character look",
+    "final video before upload"
+  ]
+}

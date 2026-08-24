@@ -1,0 +1,105 @@
+{
+  "sample_text": "Everyone asks the same question about AI stocks: is this a bubble? But bubbles usually do not pop because people get too excited. They pop when the math stops working. For regular investors, the story gets attention, but the debt usually keeps the clock.",
+  "candidates": [
+    {
+      "file": "01_slax_clear_professional.mp3",
+      "title": "Slax clear professional",
+      "id": "c5f56a6cc2ec4fa8920cb4c5889a3fb7",
+      "why": "clear, precise, measured, educational",
+      "status": "ok",
+      "size": 279195,
+      "speed": 0.96,
+      "model": "s2-pro"
+    },
+    {
+      "file": "02_youthful_male_narrator.mp3",
+      "title": "Youthful Male Narrator",
+      "id": "7e5102e4f5ff4339bc8ad0692279436c",
+      "why": "friendly, clear, younger explainer",
+      "status": "ok",
+      "size": 255790,
+      "speed": 0.96,
+      "model": "s2-pro"
+    },
+    {
+      "file": "03_ethan_curious_explainer.mp3",
+      "title": "Ethan",
+      "id": "536d3a5e000945adb7038665781a4aca",
+      "why": "curious explainer, documentary/professional",
+      "status": "ok",
+      "size": 261223,
+      "speed": 0.96,
+      "model": "s2-pro"
+    },
+    {
+      "file": "04_young_male_friendly.mp3",
+      "title": "Young Male Voice",
+      "id": "4976240cc58f42dfa1d48cae2f828f6e",
+      "why": "friendly, calm, bright social finance tone",
+      "status": "ok",
+      "size": 326425,
+      "speed": 0.96,
+      "model": "s2-pro"
+    },
+    {
+      "file": "05_calm_storyteller_male.mp3",
+      "title": "Calm storyteller male",
+      "id": "e686ae649ee44f219a108aacba206c1a",
+      "why": "deep, calm, measured documentary",
+      "status": "ok",
+      "size": 244087,
+      "speed": 0.96,
+      "model": "s2-pro"
+    },
+    {
+      "file": "06_sleepless_historian_british.mp3",
+      "title": "Sleepless historian",
+      "id": "beb44e5fac1e4b33a15dfcdcc2a9421d",
+      "why": "calm British narration",
+      "status": "ok",
+      "size": 270000,
+      "speed": 0.96,
+      "model": "s2-pro"
+    },
+    {
+      "file": "07_usa_male_common.mp3",
+      "title": "USA male common",
+      "id": "91635604486d4968939f2ae967c9fa2d",
+      "why": "professional, authoritative, informative",
+      "status": "ok",
+      "size": 234056,
+      "speed": 0.96,
+      "model": "s2-pro"
+    },
+    {
+      "file": "08_british_male_calm.mp3",
+      "title": "British male calm voice",
+      "id": "e5f3047b09ab468da84ca21e3f511680",
+      "why": "deep, calm, storytelling documentary",
+      "status": "ok",
+      "size": 280449,
+      "speed": 0.96,
+      "model": "s2-pro"
+    },
+    {
+      "file": "09_warm_professional_male.mp3",
+      "title": "Male warm professional",
+      "id": "5cf1c4cd01f1418ab6ad038bc4f0d4fd",
+      "why": "warm, friendly, professional alternative",
+      "status": "ok",
+      "size": 280031,
+      "speed": 0.96,
+      "model": "s2-pro"
+    },
+    {
+      "file": "10_adrian_steady_narrator.mp3",
+      "title": "Adrian",
+      "id": "bf322df2096a46f18c579d0baa36f41d",
+      "why": "steady, reliable, serious narrator",
+      "status": "ok",
+      "size": 307617,
+      "speed": 0.96,
+      "model": "s2-pro"
+    }
+  ]
+}

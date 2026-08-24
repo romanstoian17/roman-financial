@@ -1,0 +1,11 @@
+.env.local
+.codex-remote-attachments/
+__pycache__/
+*.pyc
+
+work/
+output/
+projects/*/work/
+projects/*/output/
+projects/*/input/generated/
+projects/*/input/audio/

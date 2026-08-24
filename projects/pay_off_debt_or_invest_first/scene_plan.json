@@ -1,0 +1,51 @@
+{
+  "title": "Pay Off Debt or Invest First?",
+  "target_runtime_seconds": 60,
+  "style": "warm pencil-and-gouache editorial finance explainer",
+  "avatar_source": "library/characters/roman_casual_chromakey_v1.png",
+  "avatar_overlay": "library/characters/roman_casual_v1.png",
+  "scenes": [
+    {
+      "id": "scene_01_hook",
+      "duration_seconds": 9,
+      "caption": "Debt or investing first?",
+      "roman_position": "right",
+      "background_prompt": "A warm pencil-and-gouache finance explainer scene on off-white paper: a clean desk with two large abstract choices, one side showing a credit card and warning color, the other side showing a small growing plant and coins. No people, no readable text, ample empty space on the right for a host character."
+    },
+    {
+      "id": "scene_02_math",
+      "duration_seconds": 10,
+      "caption": "20% debt beats a 7% hope",
+      "roman_position": "left",
+      "background_prompt": "A simple finance decision board in warm pencil-and-gouache style comparing high-interest debt and investing using abstract icons: a red downward bar, a teal upward bar, a calculator, and a clean split board. No readable text, no people, ample empty space on the left for a host character."
+    },
+    {
+      "id": "scene_03_bucket",
+      "duration_seconds": 9,
+      "caption": "Do not fill a leaking bucket",
+      "roman_position": "right",
+      "background_prompt": "A metaphorical money scene in warm pencil-and-gouache style: coins pouring into a simple bucket while water leaks from the bottom, with a credit card shadow nearby. Off-white paper texture, no people, no readable text, ample empty space on the right for a host character."
+    },
+    {
+      "id": "scene_04_buffer",
+      "duration_seconds": 10,
+      "caption": "Keep a small emergency buffer",
+      "roman_position": "left",
+      "background_prompt": "A calm warm pencil-and-gouache scene showing a small emergency fund jar, a modest stack of bills, a phone notification icon, and a notebook on a desk. No readable text, no people, no logos, ample empty space on the left for a host character."
+    },
+    {
+      "id": "scene_05_paydown",
+      "duration_seconds": 10,
+      "caption": "Attack expensive debt next",
+      "roman_position": "right",
+      "background_prompt": "A warm pencil-and-gouache finance scene showing a credit card balance shrinking through simple abstract blocks, a checklist with blank lines, and a calculator. No readable text, no people, no logos, ample empty space on the right for a host character."
+    },
+    {
+      "id": "scene_06_invest",
+      "duration_seconds": 10,
+      "caption": "Then invest with a clean plan",
+      "roman_position": "left",
+      "background_prompt": "A hopeful warm pencil-and-gouache finance explainer scene showing a tidy budget notebook, coins, a growing plant, and a simple upward chart made from abstract bars. No readable text, no people, no logos, ample empty space on the left for a host character."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+Everyone asks the same question about AI stocks: is this a bubble?
+
+But bubbles usually do not pop because people get too excited. They pop when the math stops working.
+
+And with AI, the math is not just stock prices. It is data centers, chips, power contracts, loans, bonds, and private credit.
+
+Think of it like building a city before you know how many people will move in. The buildings may be amazing. But the rent still has to show up.
+
+Big tech companies are spending hundreds of billions on AI infrastructure. That does not mean the boom is fake. It means the future profit has to be very, very real.
+
+The quiet risk is debt. When money is borrowed to build data centers, someone has to hold that debt. Sometimes it is banks. Sometimes it is private credit. Sometimes it can sit inside institutions that ordinary people barely think about, like insurers.
+
+That matters because debt has a schedule. Stock hype can wait. Interest payments do not wait politely.
+
+So what actually pops the bubble? Not one bad headline. Usually it is a chain reaction: revenue disappoints, financing costs rise, lenders pull back, weaker projects get cancelled, and then investors realize the growth story was priced for perfection.
+
+The scary version is not, "AI is useless." The scary version is, "AI is useful, but not profitable fast enough for the amount of money already committed."
+
+For regular investors, the lesson is simple. Do not only ask, "Is this technology exciting?" Ask, "Who paid for the buildout, what return do they need, and what happens if that return arrives late?"
+
+Because in a bubble, the story gets attention. But the debt usually keeps the clock.

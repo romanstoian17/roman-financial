@@ -1,0 +1,127 @@
+{
+  "title": "What Actually Pops An AI Stock Bubble?",
+  "workflow": "narrated_slide",
+  "target_runtime_seconds": 100,
+  "style": "refined watercolor editorial finance",
+  "source_reference": {
+    "url": "https://www.youtube.com/watch?v=_YXDHskRP6Y",
+    "title": "Here's What Pops This Stock Bubble",
+    "channel": "Andrei Jikh",
+    "use": "topic and structure reference only; do not copy phrasing, visuals, charts, jokes, or voice identity"
+  },
+  "research_notes": [
+    "AI infrastructure spending is capital-intensive and increasingly tied to data centers, power, chips, and financing.",
+    "Private credit and insurance balance sheets are relevant because they can hold long-duration credit exposure outside the stock-market headline.",
+    "The preview frames the bubble trigger as cash-flow timing versus fixed financing obligations."
+  ],
+  "scenes": [
+    {
+      "id": "scene_01_bubble_question",
+      "narration": "Everyone asks the same question about AI stocks: is this a bubble?",
+      "subtitle": "Is AI a bubble?",
+      "motion": "hold_then_push",
+      "focus": "center",
+      "overlay": "question_bubble",
+      "image_prompt": "A refined watercolor and ink finance illustration: a glowing AI chip inside a transparent market bubble floating above a clean desk with a small stock chart and coins. Warm ivory paper, teal glow, muted gold, soft charcoal ink, polished YouTube finance style, large readable symbolic objects, no readable text, no logos."
+    },
+    {
+      "id": "scene_02_math_stops",
+      "narration": "But bubbles usually do not pop because people get too excited. They pop when the math stops working.",
+      "subtitle": "Bubbles pop when the math stops working.",
+      "motion": "push_in",
+      "focus": "center",
+      "overlay": "red_math_warning",
+      "image_prompt": "A refined watercolor and ink finance scene: a clean calculator, a rising chart made of teal ink, and a thin red crack forming through the numbers area without any readable numbers. Serious but not scary, warm ivory paper, simple composition, subtitle-safe lower space, no text, no logos."
+    },
+    {
+      "id": "scene_03_financing_stack",
+      "narration": "And with AI, the math is not just stock prices. It is data centers, chips, power contracts, loans, bonds, and private credit.",
+      "subtitle": "AI is also a financing story.",
+      "motion": "pan_right",
+      "focus": "center",
+      "overlay": "stack_labels",
+      "image_prompt": "A wide watercolor editorial diagram without text: layered stack of AI infrastructure objects: data center building, GPU chip, power tower, loan papers, bond certificate shapes, and private credit folder shapes. Elegant ink outlines, teal and gold accents, red risk thread connecting layers, no readable text, no logos."
+    },
+    {
+      "id": "scene_04_city_before_rent",
+      "narration": "Think of it like building a city before you know how many people will move in. The buildings may be amazing. But the rent still has to show up.",
+      "subtitle": "The rent still has to show up.",
+      "motion": "pull_back",
+      "focus": "center",
+      "overlay": "soft_reveal",
+      "image_prompt": "A poetic watercolor finance metaphor: a futuristic data-center city being built on warm ivory paper, with a few tiny lit windows and many empty glowing buildings, coins and rent receipts represented only as blank papers in the foreground. Friendly serious mood, no readable text, no logos."
+    },
+    {
+      "id": "scene_05_capex_pressure",
+      "narration": "Big tech companies are spending hundreds of billions on AI infrastructure. That does not mean the boom is fake. It means the future profit has to be very, very real.",
+      "subtitle": "The profit has to become real.",
+      "motion": "tilt_up",
+      "focus": "center",
+      "overlay": "growing_bars",
+      "image_prompt": "A refined watercolor scene showing enormous AI infrastructure spending: giant teal construction cranes lifting GPU chips into a data center, muted gold coins flowing into the project, a distant profit plant growing slowly. Clean premium finance illustration, no readable text, no logos."
+    },
+    {
+      "id": "scene_06_quiet_debt",
+      "narration": "The quiet risk is debt. When money is borrowed to build data centers, someone has to hold that debt.",
+      "subtitle": "Someone holds the debt.",
+      "motion": "push_then_hold",
+      "focus": "left",
+      "overlay": "debt_clock",
+      "image_prompt": "A calm but tense watercolor illustration: blank loan documents and bond slips flowing from a data center into anonymous hands, with a small clock beside the papers. Teal data center, muted red debt thread, ivory paper background, large readable shapes, no readable text, no logos."
+    },
+    {
+      "id": "scene_07_insurance_private_credit",
+      "narration": "Sometimes it is banks. Sometimes it is private credit. Sometimes it can sit inside institutions that ordinary people barely think about, like insurers.",
+      "subtitle": "Risk can move out of sight.",
+      "motion": "pan_left",
+      "focus": "center",
+      "overlay": "hidden_paths",
+      "image_prompt": "A watercolor editorial finance scene: three quiet buildings represented symbolically as a bank, a private-credit fund folder, and an insurance shield, connected by thin paper trails from a data center. Soft teal and navy, muted gold, restrained red accents, no readable text, no logos."
+    },
+    {
+      "id": "scene_08_interest_waits",
+      "narration": "That matters because debt has a schedule. Stock hype can wait. Interest payments do not wait politely.",
+      "subtitle": "Interest payments do not wait.",
+      "motion": "drift",
+      "focus": "center",
+      "overlay": "clock_tick",
+      "image_prompt": "A refined watercolor finance illustration: a large simple clock casting a shadow over a stack of blank debt papers and a small teal stock chart in the background. Friendly but serious, ivory paper, charcoal ink, muted red accents, no readable text or numbers, no logos."
+    },
+    {
+      "id": "scene_09_chain_reaction",
+      "narration": "So what actually pops the bubble? Not one bad headline. Usually it is a chain reaction: revenue disappoints, financing costs rise, lenders pull back, weaker projects get cancelled, and then investors realize the growth story was priced for perfection.",
+      "subtitle": "The trigger is usually a chain reaction.",
+      "motion": "pull_back",
+      "focus": "center",
+      "overlay": "chain_break",
+      "image_prompt": "A cinematic watercolor finance scene: a chain reaction of simple dominoes moving from a small revenue chart to rising cost arrows, closed lender doors, cancelled data-center blueprint, and a deflating market bubble. No readable text, no logos, clean symbolic composition, subtitle-safe space."
+    },
+    {
+      "id": "scene_10_useful_but_late",
+      "narration": "The scary version is not, AI is useless. The scary version is, AI is useful, but not profitable fast enough for the amount of money already committed.",
+      "subtitle": "Useful can still be late.",
+      "motion": "hold_then_push",
+      "focus": "right",
+      "overlay": "late_profit",
+      "image_prompt": "A thoughtful watercolor scene: a beautiful teal AI machine producing a small glowing coin too slowly while a larger stack of blank obligations waits nearby. Balanced, premium, not alarmist, warm ivory paper, soft ink outlines, no readable text, no logos."
+    },
+    {
+      "id": "scene_11_takeaway",
+      "narration": "For regular investors, the lesson is simple. Do not only ask, Is this technology exciting? Ask, Who paid for the buildout, what return do they need, and what happens if that return arrives late?",
+      "subtitle": "Ask who paid for the buildout.",
+      "motion": "tilt_down",
+      "focus": "center",
+      "overlay": "three_questions",
+      "image_prompt": "A refined watercolor investor takeaway scene: a simple decision desk with three blank cards, a teal AI chip, a muted gold coin, and a red calendar marker. Friendly educational tone, large readable symbolic objects, ivory paper, no readable text, no logos."
+    },
+    {
+      "id": "scene_12_debt_clock",
+      "narration": "Because in a bubble, the story gets attention. But the debt usually keeps the clock.",
+      "subtitle": "The debt keeps the clock.",
+      "motion": "push_in",
+      "focus": "center",
+      "overlay": "final_clock",
+      "image_prompt": "A memorable closing watercolor illustration: a market bubble reflecting an AI chip on one side, and a calm clock wrapped in a thin red debt ribbon on the other, with a muted gold coin between them. Premium finance magazine style, warm ivory paper, teal glow, no readable text, no logos."
+    }
+  ]
+}

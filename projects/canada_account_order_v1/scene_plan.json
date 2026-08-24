@@ -1,0 +1,73 @@
+{
+  "title": "TFSA, FHSA, Or RRSP: Which Comes First?",
+  "workflow": "narrated_slide_with_character",
+  "target_runtime_seconds": 60,
+  "style": "refined watercolor editorial finance with simple Roman guide",
+  "source_reference": {
+    "channel": "Canadian Finance with David",
+    "url": "https://www.youtube.com/@CanadianFinancewithDavid",
+    "use": "topic and audience reference only; do not copy scripts, titles, thumbnails, voice, or packaging"
+  },
+  "research_notes": [
+    "TFSA, FHSA, and RRSP rules can change and should be verified with CRA before publication.",
+    "FHSA tax treatment depends on qualifying withdrawals for a first home.",
+    "Employer RRSP matches vary by plan and should be described generally."
+  ],
+  "character_anchor": "Roman is part of the scene, not an overlay: simple friendly adult male finance guide with short light-brown hair, small trimmed beard, simplified face, open deep navy overshirt, plain white t-shirt, dark neutral pants, white sneakers, small teal pocket square, and tiny muted-gold coin pin. Refined watercolor and clean ink outline, adult but approachable, simple readable silhouette, no glasses, no sunglasses, no complex patterns.",
+  "scenes": [
+    {
+      "id": "scene_01_three_accounts",
+      "narration": "If you live in Canada, the hard part is not finding an account. It is choosing which one gets your next dollar. Here is the simple version.",
+      "subtitle": "Which account gets your next dollar?",
+      "motion": "hold_then_push",
+      "focus": "center",
+      "overlay": "three_questions",
+      "image_prompt": "A refined watercolor Canadian finance scene on warm ivory paper. Roman stands naturally at a simple desk, looking at three blank account boxes represented by colored folders: teal, navy, and muted gold. A single glowing coin sits in front of him as the next dollar decision. Include Roman as part of the scene, not as an overlay: simple friendly adult male finance guide with short light-brown hair, small trimmed beard, simplified face, open deep navy overshirt, plain white t-shirt, dark neutral pants, white sneakers, small teal pocket square, and tiny muted-gold coin pin. No readable text, no letters, no numbers, no logos."
+    },
+    {
+      "id": "scene_03_emergency_buffer",
+      "narration": "First, keep a small emergency buffer, because investments are not very helpful if one surprise bill forces you into debt.",
+      "subtitle": "Buffer first.",
+      "motion": "pan_right",
+      "focus": "center",
+      "overlay": "debt_clock",
+      "image_prompt": "A watercolor personal finance scene. Roman places a small muted-gold coin into a clear emergency jar while a surprise bill, shown as a blank red-edged paper, waits nearby. A small shield symbol protects the jar. Roman is integrated into the scene, simple friendly finance guide, navy overshirt, white t-shirt, teal pocket square, tiny gold coin pin. No readable text, no letters, no numbers, no logos."
+    },
+    {
+      "id": "scene_04_fhsa_home",
+      "narration": "After that, if you are saving for a first home, the FHSA deserves serious attention. It can give you a tax deduction going in, and tax-free growth when the money is used for a qualifying first home.",
+      "subtitle": "First home money may point to the FHSA.",
+      "motion": "pull_back",
+      "focus": "right",
+      "overlay": "growing_bars",
+      "image_prompt": "A refined watercolor Canadian first-home scene. Roman walks beside a simple path of coins leading toward a small warm house silhouette. Along the path, a teal plant grows beside blank tax papers, all with no writing. Roman is part of the illustration with simple face, short light-brown hair, trimmed beard, navy overshirt, white tee, teal pocket square, gold coin pin. No readable text, no numbers, no logos."
+    },
+    {
+      "id": "scene_05_employer_match",
+      "narration": "If your employer matches an RRSP contribution, that match usually jumps near the front of the line. Free money is not always free, but it is usually worth reading the plan carefully.",
+      "subtitle": "Employer match can move RRSP up.",
+      "motion": "tilt_down",
+      "focus": "center",
+      "overlay": "stack_labels",
+      "image_prompt": "A watercolor workplace finance scene. Roman reviews a blank employer plan paper at a desk while two coins pair together like a matching contribution. A simple office window is in the background. Roman is naturally inside the scene, navy overshirt, white t-shirt, teal pocket square, tiny gold coin pin, short light-brown hair, trimmed beard, simplified face. No readable text, no letters, no numbers, no logos."
+    },
+    {
+      "id": "scene_06_rrsp_tfsa_compare",
+      "narration": "Then compare RRSP and TFSA. RRSPs can help more when your tax rate is high today. TFSAs are more flexible because withdrawals are tax-free and the room generally comes back later.",
+      "subtitle": "RRSP today. TFSA flexibility.",
+      "motion": "pan_left",
+      "focus": "center",
+      "overlay": "hidden_paths",
+      "image_prompt": "A balanced watercolor comparison scene. Roman stands between two simple blank containers: one looks like a tax-sheltered vault, the other like a flexible open jar with coins moving in and out. Teal path on one side, muted gold on the other. Roman is part of the scene, simple friendly finance guide, navy overshirt, white tee, teal pocket square, gold coin pin. No readable text, no numbers, no logos."
+    },
+    {
+      "id": "scene_07_next_dollar_job",
+      "narration": "The best account is not the fanciest one. It is the one that matches the job your next dollar needs to do.",
+      "subtitle": "Match the account to the job.",
+      "motion": "push_then_hold",
+      "focus": "center",
+      "overlay": "final_clock",
+      "image_prompt": "A memorable closing watercolor scene. Roman holds one muted-gold coin at a small crossroads with three unlabeled paths: a shield jar, a small home, and a growing plant. He looks friendly and thoughtful. Roman is integrated into the scene with simple face, light-brown hair, trimmed beard, navy overshirt, white tee, teal pocket square, gold coin pin. Clean lower subtitle-safe space. No readable text, no letters, no numbers, no logos."
+    }
+  ]
+}

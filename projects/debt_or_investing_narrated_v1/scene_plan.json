@@ -1,0 +1,71 @@
+{
+  "title": "Debt Or Investing?",
+  "workflow": "narrated_slide",
+  "target_runtime_seconds": 48,
+  "style": "premium editorial mixed-media finance collage",
+  "scenes": [
+    {
+      "id": "scene_01_grown_up_move",
+      "duration_seconds": 6,
+      "narration": "Most people think investing is always the grown-up move.",
+      "subtitle": "Investing feels like the grown-up move.",
+      "motion": "zoom_in",
+      "focus": "center",
+      "image_prompt": "A warm pencil-and-gouache editorial finance scene on off-white paper: a young adult standing at a quiet desk, looking at an investment app represented by abstract teal growth shapes, with coins and a small plant nearby. Thoughtful, aspirational, no readable text, no logos, no celebrity likeness."
+    },
+    {
+      "id": "scene_02_math_changes",
+      "duration_seconds": 7,
+      "narration": "But if your money is sitting beside high-interest debt, the math changes fast.",
+      "subtitle": "High-interest debt changes the math.",
+      "motion": "zoom_in",
+      "focus": "center",
+      "image_prompt": "A split warm pencil-and-gouache finance illustration: on one side a small stack of cash, on the other a heavy red credit card bill and abstract warning marks, with a simple balance scale between them. No readable text or numbers, no people, clean composition."
+    },
+    {
+      "id": "scene_03_credit_card",
+      "duration_seconds": 7,
+      "narration": "A credit card charging twenty percent does not wait politely while your investments try to catch up.",
+      "subtitle": "A 20% card does not wait.",
+      "motion": "zoom_in",
+      "focus": "left",
+      "image_prompt": "A dramatic but clean warm pencil-and-gouache scene: a red credit card casts a long shadow over a small teal investment plant trying to grow, with a calculator and abstract percentage symbols in the background. No readable text except no actual numbers inside the image, no logos."
+    },
+    {
+      "id": "scene_04_stop_the_leak",
+      "duration_seconds": 7,
+      "narration": "That is why the first win is not always buying something new. Sometimes it is stopping the leak.",
+      "subtitle": "Sometimes the first win is stopping the leak.",
+      "motion": "zoom_in",
+      "focus": "center",
+      "image_prompt": "A metaphorical warm pencil-and-gouache finance scene: coins dripping through a leaking bucket on a desk, with a hand placing a patch over the leak. Muted gold coins, teal repair patch, off-white paper texture, no readable text, no logos."
+    },
+    {
+      "id": "scene_05_buffer_then_debt",
+      "duration_seconds": 8,
+      "narration": "Keep a small emergency buffer, then attack the expensive debt with focus.",
+      "subtitle": "Buffer first. Expensive debt next.",
+      "motion": "zoom_out",
+      "focus": "center",
+      "image_prompt": "A warm pencil-and-gouache editorial finance desk scene: a small emergency jar protected by a simple shield icon, then a clear path of abstract blocks leading toward a shrinking red debt pile. Calm, organized, beginner-friendly, no readable text or numbers, no people."
+    },
+    {
+      "id": "scene_06_clean_investing",
+      "duration_seconds": 7,
+      "narration": "Once that pressure is gone, investing is no longer fighting yesterday's bill.",
+      "subtitle": "Then investing has room to work.",
+      "motion": "zoom_out",
+      "focus": "right",
+      "image_prompt": "A hopeful warm pencil-and-gouache scene: old bills fading into the background while a clean teal investment path, coins, and a growing plant move into the light. Adult professional finance explainer tone, no readable text, no logos, no people."
+    },
+    {
+      "id": "scene_07_next_dollar",
+      "duration_seconds": 6,
+      "narration": "The smartest move is not the most exciting one. It is the one that gives your next dollar the most power.",
+      "subtitle": "Put your next dollar where it has power.",
+      "motion": "zoom_out",
+      "focus": "center",
+      "image_prompt": "A closing warm pencil-and-gouache finance illustration: one glowing muted-gold coin at a crossroads, one path toward a red debt chain breaking, the other toward a teal growing plant. Balanced, elegant, memorable, off-white paper texture, no readable text, no logos."
+    }
+  ]
+}
