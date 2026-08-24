@@ -24,12 +24,12 @@ The host exists as a voice and editorial point of view, not as a character paste
 
 For a 45-90 second first-round video:
 
-1. Hook: 5-8 seconds.
-2. Context: 6-10 seconds.
-3. Mechanism: 6-10 seconds.
-4. Example or analogy: 6-10 seconds.
-5. Consequence: 6-10 seconds.
-6. Practical takeaway: 6-10 seconds.
+1. Viewer question: 7-10 seconds.
+2. Tension: 7-10 seconds.
+3. Mechanism: 8-12 seconds.
+4. Example or analogy: 8-12 seconds.
+5. Caveat or exception: 7-10 seconds.
+6. Practical takeaway: 7-10 seconds.
 7. Disclaimer or soft close: 3-6 seconds.
 
 Each beat gets:
@@ -40,6 +40,12 @@ Each beat gets:
 - image prompt
 - subtitle text
 - motion direction
+
+Avoid isolated short comments as their own chunks. Any narration beat under about 4 seconds should be merged into the previous or next scene.
+
+## Speaking Style
+
+Use `workflow/speaking_style.md` for the Roman Financial narration voice. The target is measured, curious, and explanatory: not fast, not just facts, and not an imitation of any reference speaker.
 
 ## Image Rules
 
@@ -81,4 +87,3 @@ Close format reference:
 `https://www.youtube.com/@financial.historian`
 
 Use for pacing and concept shape only. Do not copy titles, scripts, images, voice, or specific packaging.
-
