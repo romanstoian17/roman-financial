@@ -1,3 +1,82 @@
 {
-  "scenes": []
+  "scenes": [
+    {
+      "id": "s01_hook",
+      "narration": "If mortgage rates are falling, your payment should fall too, right?",
+      "motion": "hold_then_push",
+      "visual": "A Canadian homeowner at a kitchen table looking at a mortgage renewal letter, with a small chart arrow drifting downward outside the window."
+    },
+    {
+      "id": "s02_not_always",
+      "narration": "Not always.",
+      "motion": "push_then_hold",
+      "visual": "Same kitchen table mood, close detail of a renewal letter and calculator, with the homeowner's hand paused above the paper."
+    },
+    {
+      "id": "s03_setup",
+      "narration": "That is the part catching a lot of people off guard. The renewal trap is simple.",
+      "motion": "push_in",
+      "visual": "A simple visual metaphor of a low old mortgage contract transforming into a higher new payment notice."
+    },
+    {
+      "id": "s04_mechanism",
+      "narration": "Your new mortgage payment is not compared with the highest rate you saw on the news last year. It is compared with the rate you locked in years ago.",
+      "motion": "pan_right",
+      "visual": "Two side-by-side mortgage documents, one old and calm, one new and heavier, with a television rate headline in the background."
+    },
+    {
+      "id": "s05_contradiction",
+      "narration": "So if you bought or renewed when money was unusually cheap, today's rate can be lower than the peak, but still much higher than your old deal.",
+      "motion": "pan_left",
+      "visual": "A timeline from cheap-money years to today, showing a lower peak but still a higher renewal step."
+    },
+    {
+      "id": "s06_toll_booth",
+      "narration": "Think of it like reaching a toll booth. The road ahead may be cheaper than last month, but still more expensive than the road you were already on.",
+      "motion": "drift",
+      "visual": "A quiet road turning into a toll booth shaped like a mortgage renewal, clear visual metaphor, Canadian suburban setting."
+    },
+    {
+      "id": "s07_stakes",
+      "narration": "That is why this mortgage renewal wave matters. For many households, the problem is not a dramatic crash. It is a slow squeeze.",
+      "motion": "push_in",
+      "visual": "A household monthly budget being gently squeezed by a larger mortgage payment, groceries, insurance, and debt."
+    },
+    {
+      "id": "s08_consequence",
+      "narration": "A few hundred dollars more each month. Less room for savings. Less room for mistakes.",
+      "motion": "tilt_down",
+      "visual": "A wallet and monthly budget jars with savings space shrinking, emotional but not scary."
+    },
+    {
+      "id": "s09_caveat",
+      "narration": "To be fair, not every borrower is hit the same way. Some renewals will be manageable. Some could even improve.",
+      "motion": "pull_back",
+      "visual": "Different Canadian households on separate paths, some comfortable, some cautious, no panic."
+    },
+    {
+      "id": "s10_risk",
+      "narration": "The pressure is strongest when the old rate was very low, the mortgage is large, and the budget was already tight.",
+      "motion": "pan_right",
+      "visual": "A simple balancing scale with old low rate, large mortgage, and tight budget represented as clear objects."
+    },
+    {
+      "id": "s11_question",
+      "narration": "So the practical question is not just, where will rates go?",
+      "motion": "hold_then_push",
+      "visual": "A person looking past a market-rate headline toward their own monthly budget worksheet."
+    },
+    {
+      "id": "s12_better_question",
+      "narration": "The better question is, what payment can my budget survive if the headline is wrong?",
+      "motion": "push_in",
+      "visual": "A calm budget stress test scene, with payment ranges shown visually without readable numbers."
+    },
+    {
+      "id": "s13_close",
+      "narration": "Because the dangerous mortgage payment is not always the biggest one. It is the one you planned for too late.",
+      "motion": "pull_back",
+      "visual": "A final quiet scene of a calendar, renewal letter, and household keys, suggesting planning before the deadline."
+    }
+  ]
 }
