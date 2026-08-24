@@ -119,3 +119,34 @@ Candidates:
 - `08_british_male_calm.mp3` - Fish reference `e5f3047b09ab468da84ca21e3f511680`; deep, calm, storytelling documentary.
 - `09_warm_professional_male.mp3` - Fish reference `5cf1c4cd01f1418ab6ad038bc4f0d4fd`; warm, friendly, professional alternative.
 - `10_adrian_steady_narrator.mp3` - Fish reference `bf322df2096a46f18c579d0baa36f41d`; steady, reliable, serious narrator.
+
+## 2026-08-24 Immigrant Money Fish Audition Pack
+
+Target direction:
+
+Original male voices for the Roman Financial immigrant-money channel concept: human, warm, practical, more performance variation than a flat monologue. Inspired by the pacing dynamics of the supplied reference clip, without copying the speaker identity.
+
+Location:
+
+`library/audio/fish_voice_auditions_2026-08-24_immigrant_money/`
+
+Results copy:
+
+`D:\Ram\projects\projectResults\RomanFinancial\voice_auditions\fish_2026-08-24_immigrant_money`
+
+Sample text:
+
+> When I came to Canada, saving one hundred thousand dollars felt impossible. Four years later, it became a down payment. Not because of one magic trick. Because I slowly learned how money works here: credit, rent, cars, taxes, and the small decisions that either protect your future, or quietly drain it.
+
+Candidates:
+
+- `01_warm_conversational_w2w.mp3` - Fish reference `4746f1b456494387993af9041d0516c4`; warm, conversational, smooth.
+- `02_authoritative_male_narrator.mp3` - Fish reference `efc2f5153a24463dbfe54acd93a145f8`; warm authoritative narrator.
+- `03_clear_measured_educator.mp3` - Fish reference `40f7b5f53c924d1b8a371a9bded6e41d`; clear, calm, measured educator.
+- `04_friendly_confident_male.mp3` - Fish reference `69fc4effef064b4495d584e632e92fa6`; friendly, confident, more expressive.
+- `05_reassuring_storyteller.mp3` - Fish reference `a8f38c1daaca418a9b13d5e7abefa521`; warm, reassuring storyteller.
+- `06_noel_professional_documentary.mp3` - Fish reference `329ff0b9604444ec982526af54630427`; professional documentary explainer.
+- `07_young_authoritative_documentary.mp3` - Fish reference `19c8b7c675684cbabcba293394cb69c6`; younger, authoritative, measured.
+- `08_calm_storyteller_expressive.mp3` - Fish reference `658013ec03ca4e6894e1570f351c3533`; calm but more expressive storyteller.
+- `09_calm_guy_smooth_confident.mp3` - Fish reference `5b8bc51d21494a1eba7ffba579c4cdad`; smooth, calm, confident.
+- `10_history_warm_deep.mp3` - Fish reference `783e4bc723494007a7d84c458d14d1ba`; deeper, warm, story/history feel.

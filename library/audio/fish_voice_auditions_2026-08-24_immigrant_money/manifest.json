@@ -1,0 +1,88 @@
+{
+  "created": "2026-08-24",
+  "source_reference": "https://www.youtube.com/watch?v=6ALtylhifIE",
+  "source_use": "Performance pattern only. Do not clone or imitate the speaker identity.",
+  "sample_text": "When I came to Canada, saving one hundred thousand dollars felt impossible. Four years later, it became a down payment. Not because of one magic trick. Because I slowly learned how money works here: credit, rent, cars, taxes, and the small decisions that either protect your future, or quietly drain it.",
+  "candidates": [
+    {
+      "file": "01_warm_conversational_w2w.mp3",
+      "fish_reference_id": "4746f1b456494387993af9041d0516c4",
+      "speed": 0.93,
+      "why": "warm, conversational, smooth; possible immigrant-money host",
+      "status": "ok",
+      "size": 391626
+    },
+    {
+      "file": "02_authoritative_male_narrator.mp3",
+      "fish_reference_id": "efc2f5153a24463dbfe54acd93a145f8",
+      "speed": 0.91,
+      "why": "warm authoritative middle-aged narrator",
+      "status": "ok",
+      "size": 334366
+    },
+    {
+      "file": "03_clear_measured_educator.mp3",
+      "fish_reference_id": "40f7b5f53c924d1b8a371a9bded6e41d",
+      "speed": 0.94,
+      "why": "clear, calm, measured educational delivery",
+      "status": "ok",
+      "size": 362787
+    },
+    {
+      "file": "04_friendly_confident_male.mp3",
+      "fish_reference_id": "69fc4effef064b4495d584e632e92fa6",
+      "speed": 0.95,
+      "why": "friendly and confident, more expressive",
+      "status": "ok",
+      "size": 331858
+    },
+    {
+      "file": "05_reassuring_storyteller.mp3",
+      "fish_reference_id": "a8f38c1daaca418a9b13d5e7abefa521",
+      "speed": 0.9,
+      "why": "warm, reassuring, reflective storyteller",
+      "status": "ok",
+      "size": 384939
+    },
+    {
+      "file": "06_noel_professional_documentary.mp3",
+      "fish_reference_id": "329ff0b9604444ec982526af54630427",
+      "speed": 0.92,
+      "why": "professional documentary explainer",
+      "status": "ok",
+      "size": 315558
+    },
+    {
+      "file": "07_young_authoritative_documentary.mp3",
+      "fish_reference_id": "19c8b7c675684cbabcba293394cb69c6",
+      "speed": 0.94,
+      "why": "younger, authoritative, measured",
+      "status": "ok",
+      "size": 331858
+    },
+    {
+      "file": "08_calm_storyteller_expressive.mp3",
+      "fish_reference_id": "658013ec03ca4e6894e1570f351c3533",
+      "speed": 0.92,
+      "why": "calm but more expressive storyteller",
+      "status": "ok",
+      "size": 322663
+    },
+    {
+      "file": "09_calm_guy_smooth_confident.mp3",
+      "fish_reference_id": "5b8bc51d21494a1eba7ffba579c4cdad",
+      "speed": 0.93,
+      "why": "smooth, calm, confident",
+      "status": "ok",
+      "size": 337710
+    },
+    {
+      "file": "10_history_warm_deep.mp3",
+      "fish_reference_id": "783e4bc723494007a7d84c458d14d1ba",
+      "speed": 0.9,
+      "why": "deeper, warm, story/history feel",
+      "status": "ok",
+      "size": 367385
+    }
+  ]
+}
