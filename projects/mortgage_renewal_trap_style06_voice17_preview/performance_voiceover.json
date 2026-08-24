@@ -1,29 +1,17 @@
 {
-  "direction": "Short preview using Fish option 17 and graphic novel ink-wash images. Keep it lively, human, and clear.",
+  "direction": "Short preview v2 using Fish option 17 and graphic novel ink-wash images. Keep it more conversational and avoid one-line visual scenes.",
   "segments": [
     {
       "label": "hook",
-      "speed": 0.89,
-      "pause_after_ms": 650,
-      "text": "If mortgage rates are falling, your payment should fall too, right?"
-    },
-    {
-      "label": "turn",
-      "speed": 0.84,
-      "pause_after_ms": 850,
-      "text": "Not always."
-    },
-    {
-      "label": "setup",
-      "speed": 0.95,
-      "pause_after_ms": 350,
-      "text": "That is the part catching a lot of people off guard. The renewal trap is simple."
+      "speed": 0.88,
+      "pause_after_ms": 450,
+      "text": "If mortgage rates are falling, your payment should fall too, right? Not always. And that is the part catching people off guard."
     },
     {
       "label": "mechanism",
-      "speed": 0.98,
+      "speed": 1.0,
       "pause_after_ms": 450,
-      "text": "Your new mortgage payment is not compared with the highest rate you saw on the news last year. It is compared with the rate you locked in years ago."
+      "text": "The renewal trap is simple. Your new mortgage payment is not compared with the highest rate you saw on the news last year. It is compared with the rate you locked in years ago."
     },
     {
       "label": "contradiction",
@@ -33,7 +21,7 @@
     },
     {
       "label": "analogy",
-      "speed": 0.92,
+      "speed": 0.9,
       "pause_after_ms": 0,
       "text": "Think of it like reaching a toll booth. The road ahead may be cheaper than last month, but still more expensive than the road you were already on."
     }

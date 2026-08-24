@@ -83,6 +83,7 @@ def main() -> int:
     parser.add_argument("--project", required=True, help="Episode slug under projects/.")
     parser.add_argument("--input", default="performance_voiceover.json", help="Segment JSON relative to the episode folder.")
     parser.add_argument("--output", default="work/audio/performance_voiceover.mp3", help="Output MP3 relative to the episode folder.")
+    parser.add_argument("--reference-id", default=None, help="Override Fish Audio reference ID.")
     parser.add_argument("--force", action="store_true", help="Overwrite existing output and segment files.")
     args = parser.parse_args()
 
@@ -127,7 +128,11 @@ def main() -> int:
             text=text,
             output_path=audio_path,
             api_key=api_key,
-            reference_id=str(tts.get("fish_reference_id", "")).strip(),
+            reference_id=(
+                str(args.reference_id).strip()
+                if args.reference_id is not None
+                else str(tts.get("fish_reference_id", "")).strip()
+            ),
             model=str(tts.get("fish_model", "s2-pro")).strip(),
             speed=speed,
             sample_rate=int(tts.get("sample_rate", 44100)),
