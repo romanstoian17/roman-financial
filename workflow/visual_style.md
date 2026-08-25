@@ -2,35 +2,35 @@
 
 ## Primary Style
 
-Roman Financial uses a **premium editorial mixed-media finance collage** style.
+Roman Financial uses a **colorful graphic novel ink-wash finance explainer** style.
 
 This is the main prompt anchor:
 
-> Premium editorial mixed-media finance collage on off-white parchment paper, layered paper scraps, subtle blueprint/grid marks, visible clean pencil linework, soft gouache washes, tactile paper grain, large readable symbolic finance objects, adult professional financial magazine tone, deep navy shadows, teal positive-growth accents, muted gold value accents, graphite lines, restrained red debt/warning accents, minimal clutter, no readable text unless explicitly requested.
+> Colorful graphic novel ink-wash finance explainer, expressive ink lines, watercolor texture, cinematic composition, adult trustworthy tone, premium YouTube editorial polish, rich teal, deep navy, amber light, coral accent, warm cream paper, graphite ink, readable symbolic finance objects, clean subtitle-safe space, no readable text unless explicitly requested.
 
 ## Why This Style
 
-- More premium and memorable than flat vector art.
-- Large symbolic objects stay readable after YouTube compression.
-- Paper collage texture keeps scenes consistent while letting each beat feel custom.
-- Finance objects, charts, bills, cards, calculators, coins, and plants remain readable.
+- More colorful and watchable than the earlier watercolor/pencil baseline.
+- Stronger story energy for the channel concept: money after immigration.
+- Adult and trustworthy enough for finance, but not dry.
+- Ink lines keep scenes readable after YouTube compression.
 - Works well without a persistent avatar overlay.
 
 ## Color Palette
 
-- Off-white parchment paper base.
-- Deep navy for shadows and serious finance elements.
-- Teal for positive growth, charts, and calm emphasis.
-- Muted gold for value, coins, highlights, and premium accents.
-- Graphite pencil lines for structure.
-- Small red accent for warnings, debt, or Ukrainian shirt detail.
+- Rich teal for calm and growth.
+- Deep navy for serious finance elements and shadows.
+- Amber light for warmth and human optimism.
+- Coral accent for tension, warnings, or contrast.
+- Warm cream paper for subtitle-safe space.
+- Graphite ink for linework and structure.
 
 ## Scene Rules
 
 - Use 16:9 landscape for standard video scenes.
 - Leave caption-safe negative space.
 - Prefer large, readable finance props over clutter.
-- Use layered paper scraps, faint grid lines, and hand-drawn marks for continuity.
+- Use expressive ink lines and watercolor texture for continuity.
 - Use abstract icons instead of detailed tiny text.
 - Avoid readable generated text unless the exact text will be added later in video editing.
 - Avoid relying on a persistent avatar for now; the scene image should carry the narration beat.
@@ -38,23 +38,27 @@ This is the main prompt anchor:
 ## Reusable Prompt Template
 
 ```text
-Create a Roman Financial YouTube explainer scene in a premium editorial mixed-media finance collage style.
+Create a Roman Financial YouTube explainer scene in a colorful graphic novel ink-wash finance style.
 Scene: {scene_description}
-Style: off-white parchment paper, layered paper scraps, subtle blueprint/grid marks, visible clean pencil linework, soft gouache washes, tactile paper grain, adult professional financial magazine tone, large readable symbolic finance objects.
-Palette: deep navy shadows, teal positive-growth accents, muted gold value accents, graphite pencil lines, restrained red debt/warning accents.
+Style: expressive ink lines, watercolor texture, cinematic composition, adult trustworthy tone, premium YouTube editorial polish, large readable symbolic finance objects.
+Palette: rich teal, deep navy, amber light, coral accent, warm cream paper, graphite ink.
 Composition: 16:9 landscape, clear focal point, generous caption-safe space, minimal clutter.
-Constraints: no readable text, no logos, no watermark, no photorealism, no glossy 3D, no childish cartoon proportions.
+Constraints: no readable text, no logos, no watermark, no photorealism, no glossy 3D, no childish cartoon proportions, no avatar overlay.
 ```
 
 ## Reference Sample
 
 Primary samples:
 
-`library/style-samples/narrated_slide_alternates/04_premium_editorial_collage.png`
+`library/style-samples/image_style_auditions_2026-08-24/06_graphic_novel_ink_wash.png`
 
-Current full-scene prototype set:
+Current preview set:
 
-`projects/debt_or_investing_narrated_v1/input/images/`
+`projects/mortgage_renewal_trap_style06_voice17_preview/input/images/`
+
+Current approved preview:
+
+`D:\Ram\projects\projectResults\RomanFinancial\mortgage_renewal_trap_style06_voice17_preview\mortgage_renewal_trap_style06_voice17_preview_kenburns_style06_voice17_v4_faster_landscape.mp4`
 
 ## Experimental Style: Watercolor Editorial
 

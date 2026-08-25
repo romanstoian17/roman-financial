@@ -53,11 +53,12 @@
     "long_runtime_seconds": 420
   },
   "image_generation": {
-    "style": "warm pencil-and-gouache editorial finance explainer, off-white paper texture, visible clean pencil linework, soft painted color washes, adult professional tone, simple readable finance props",
+    "style": "colorful graphic novel ink-wash finance explainer, expressive ink lines, watercolor texture, cinematic composition, adult trustworthy tone, rich teal/navy/amber/coral palette, clear subtitle-safe space",
     "aspect_ratio": "16:9",
     "style_reference": "workflow/visual_style.md",
-    "sample_reference": "library/style-samples/06_pencil_gouache_hybrid.png",
-    "scene_prompt_template": "Create a Roman Financial YouTube explainer scene in a warm pencil-and-gouache editorial illustration style. Scene: {scene}. Roman: {character}. Mood: {mood}. Use off-white paper texture, visible pencil linework, soft gouache color washes, and the Roman Financial palette: deep navy, teal, muted gold, graphite lines, tiny red accent. Leave clean caption-safe space. No readable text unless explicitly requested."
+    "sample_reference": "library/style-samples/image_style_auditions_2026-08-24/06_graphic_novel_ink_wash.png",
+    "selected_style": "06_graphic_novel_ink_wash",
+    "scene_prompt_template": "Create a Roman Financial YouTube explainer scene in a colorful graphic novel ink-wash finance style. Scene: {scene}. Mood: {mood}. Use expressive ink lines, watercolor texture, cinematic composition, adult trustworthy tone, premium YouTube editorial polish, and the Roman Financial palette: rich teal, deep navy, amber light, coral accent, warm cream paper, graphite ink. Keep the main action in the upper and middle area with clean subtitle-safe space in the lower third. No readable text unless explicitly requested. No logos, no watermark, no avatar overlay."
   },
   "tts": {
     "engine": "fish",
@@ -69,6 +70,9 @@
     "fish_model": "s2-pro",
     "fish_speed": 0.95,
     "voiceover_style_reference": "workflow/speaking_style.md",
+    "performance_style_reference": "workflow/voice_performance_pattern.md",
+    "selected_performance_map": "projects/mortgage_renewal_trap_style06_voice17_preview/performance_voiceover_v4_faster.json",
+    "performance_pattern": "micro-beat grouped pacing: split narration into meaning beats, vary speed by beat, keep visuals grouped into longer scenes",
     "fallback_engine": "edge",
     "voice": "en-CA-LiamNeural",
     "edge_rate": "+4%",
@@ -84,6 +88,9 @@
     "use_avatar_overlay": false,
     "workflow_reference": "workflow/narrated_slide_workflow.md",
     "captions": true,
+    "subtitle_mode": "rolling-highlight",
+    "scene_audio_grouping": "group micro-beat audio segments back into longer visual scenes",
+    "preview_reference": "projects/mortgage_renewal_trap_style06_voice17_preview/output/mortgage_renewal_trap_style06_voice17_preview_kenburns_style06_voice17_v4_faster_landscape.mp4",
     "music_level_db": -24,
     "voice_level_db": -16
   },
