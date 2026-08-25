@@ -1,0 +1,76 @@
+{
+  "scenes": [
+    {
+      "id": "s01_arrival",
+      "narration": "In 2022, we came to Canada from Ukraine with two kids. Almost all the money we had went into an old car.",
+      "motion": "hold_then_push",
+      "visual": "A family of four arriving in Canada with suitcases beside an older used car, hopeful but tired."
+    },
+    {
+      "id": "s02_impossible_prices",
+      "narration": "We were renting. We had left our apartment back home. And when I saw houses selling for eight hundred thousand, nine hundred thousand, even a million dollars, I remember thinking, this is not difficult. This is impossible.",
+      "motion": "push_in",
+      "visual": "A rented apartment kitchen with house listings and huge price tags represented as abstract blocks, feeling impossible but not hopeless."
+    },
+    {
+      "id": "s03_try_anyway",
+      "narration": "But after the panic passed, my wife and I made one decision. Maybe it is impossible. But let's still try.",
+      "motion": "push_then_hold",
+      "visual": "A husband and wife at a small kitchen table with two kids nearby, deciding to make a simple financial plan."
+    },
+    {
+      "id": "s04_learning_system",
+      "narration": "Back in Ukraine, we had never really invested. One year before moving, I had only a couple thousand dollars to experiment with. That was it. So in Canada, I started researching like someone who was already late. I learned about brokers. Employer matching. Cash-back accounts. Credit. Taxes.",
+      "motion": "pan_right",
+      "visual": "A desk full of beginner finance research: broker apps, employer match, cashback, credit, taxes, and notes represented with icons."
+    },
+    {
+      "id": "s05_beginner_tools",
+      "narration": "And then I found something important. You do not need to be a professional investor to begin. There are simple tools like ETFs, which are basically baskets of stocks. And for a beginner, that idea changed everything.",
+      "motion": "pan_left",
+      "visual": "A simple basket of stocks metaphor, with many tiny company blocks inside one ETF basket."
+    },
+    {
+      "id": "s06_weekly_habit",
+      "narration": "After rent, insurance, the car, kids, groceries, and all the normal bills, we did not have some huge amount left over. But we decided to invest one hundred and fifty dollars a week. That was less than I could make in a day.",
+      "motion": "tilt_down",
+      "visual": "A weekly family budget with rent, car, groceries, kids, and a small but steady investment contribution."
+    },
+    {
+      "id": "s07_pointless_start",
+      "narration": "At the beginning, it felt almost pointless. You put money in, and the number still looks small. Nothing dramatic happens. Nobody claps for you. Your life looks exactly the same. But then time starts doing its quiet work.",
+      "motion": "drift",
+      "visual": "A small investment seed slowly growing under a calendar, quiet and undramatic."
+    },
+    {
+      "id": "s08_two_paths",
+      "narration": "I was interested in investing, so I picked individual stocks for my own accounts. My wife was not interested in stock picking, so for her accounts, I chose the simpler ETF path.",
+      "motion": "pan_right",
+      "visual": "Two investing paths side by side: one detailed stock-picking path, one simple ETF basket path."
+    },
+    {
+      "id": "s09_result",
+      "narration": "Four years later, my accounts are around fifty eight thousand six hundred dollars. Her accounts are around fifty four thousand five hundred. Together, that is about one hundred and thirteen thousand dollars.",
+      "motion": "push_in",
+      "visual": "Two investment account towers growing side by side into a combined down payment foundation."
+    },
+    {
+      "id": "s10_options",
+      "narration": "And recently, we saw a similar house near the one we rent listed around five hundred twenty seven thousand dollars. For the first time, the question was not, how could we ever buy a home? The question became, should we buy one now, or keep growing?",
+      "motion": "pull_back",
+      "visual": "A rented house and a similar house for sale nearby, with a family looking at two paths: buy a home or keep growing wealth."
+    },
+    {
+      "id": "s11_lesson",
+      "narration": "That is the part I did not understand at the beginning. The first financial goal after immigration is not getting rich. It is getting stable enough to have options.",
+      "motion": "hold_then_push",
+      "visual": "A family standing at a crossroads labeled visually by home, investing, stability, and opportunity icons, no readable text."
+    },
+    {
+      "id": "s12_channel_promise",
+      "narration": "Because once you have capital, time starts working differently. A broker matters. Taxes matter. Cashback matters. Employer match matters. Small decisions stop being small. This channel is about that journey. Money after immigration. The mistakes, the tools, and the systems that helped us go from zero to options.",
+      "motion": "pull_back",
+      "visual": "A warm montage of immigrant family finances: car, rent, broker, taxes, cashback, employer match, home keys, and a growing path forward."
+    }
+  ]
+}
