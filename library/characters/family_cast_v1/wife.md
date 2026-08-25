@@ -1,8 +1,8 @@
-# Wife Character V1
+# Wife Character V3
 
 ## Role
 
-Family-inspired wife and mother character for Roman Financial stories. Use as a recurring supporting character in immigrant-family finance scenes.
+Family-inspired wife and mother character for Roman Financial stories. Use as a recurring supporting character in immigrant-family finance scenes. V3 is the preferred version.
 
 ## Privacy Direction
 
@@ -15,9 +15,10 @@ Inspired by real family photos, but not an exact portrait. Keep her simplified, 
 - Warm fair complexion.
 - Thoughtful eyes.
 - Soft rounded face.
-- Gentle practical smile.
-- Signature clothing: coral or rust cardigan/blouse over a cream or dark simple top, jeans or simple dark pants, comfortable shoes.
-- Signature detail: small simple earrings.
+- Gentle practical smile with a quietly confident presence.
+- Slim, graceful silhouette.
+- Signature clothing: coral/rust wrap blouse or fitted soft cardigan over a cream top, elegant dark A-line skirt or tailored dark trousers, comfortable stylish flats.
+- Signature detail: small simple earrings and optional small necklace.
 
 ## Style
 
@@ -25,16 +26,18 @@ Colorful graphic novel ink-wash finance explainer style, expressive graphite ink
 
 ## Prompt Block
 
-Family-inspired wife and mother character, medium-length straight to lightly wavy dark brown hair with a soft center or slight side part, warm fair complexion, thoughtful eyes, soft rounded face, gentle practical smile, small simple earrings, coral or rust cardigan or blouse over a cream or dark simple top, jeans or simple dark pants, comfortable shoes, modest casual clothing, colorful graphic novel ink-wash finance explainer style, expressive graphite ink lines, watercolor texture, warm cream paper, public-safe and easy to regenerate consistently.
+Family-inspired wife and mother character, slim graceful silhouette, medium-length rich dark brown hair with soft waves and a soft center or slight side part, warm fair complexion, thoughtful eyes, soft attractive rounded face, gentle practical smile with quiet confidence, small simple earrings, optional small necklace, coral/rust wrap blouse or fitted soft cardigan over a cream top, elegant dark A-line skirt or tailored dark trousers, comfortable stylish flats, modest polished casual clothing, colorful graphic novel ink-wash finance explainer style, expressive graphite ink lines, watercolor texture, warm cream paper, public-safe and easy to regenerate consistently.
 
 ## Avoid
 
 - Do not make her photorealistic.
 - Do not copy the reference photos exactly.
-- Do not make her look overly glamorous or formal.
+- Do not make her look overly glamorous, formal, or office-stiff.
+- Do not default to jeans.
 - Do not use sunglasses unless the scene specifically needs them.
 - Avoid logos, readable text, distorted hands, and exaggerated proportions.
 
 ## Reference
 
-- `wife_v1_reference.png`
+- Preferred: `wife_v3_reference.png`
+- Earlier version: `wife_v1_reference.png`
