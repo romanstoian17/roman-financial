@@ -1,0 +1,82 @@
+{
+  "direction": "Micro-beat performance for Fish option 17, slightly faster than v3. Keep the human turns, but tighten pauses and move the explanation with more energy.",
+  "segments": [
+    {
+      "scene_id": "s01_hook",
+      "label": "curious_open",
+      "speed": 1.0,
+      "pause_after_ms": 80,
+      "text": "If mortgage rates are falling,"
+    },
+    {
+      "scene_id": "s01_hook",
+      "label": "viewer_assumption",
+      "speed": 0.91,
+      "pause_after_ms": 360,
+      "text": "your payment should fall too, right?"
+    },
+    {
+      "scene_id": "s01_hook",
+      "label": "turn",
+      "speed": 0.84,
+      "pause_after_ms": 520,
+      "text": "Not always."
+    },
+    {
+      "scene_id": "s01_hook",
+      "label": "human_context",
+      "speed": 0.98,
+      "pause_after_ms": 220,
+      "text": "And that is the part catching people off guard."
+    },
+    {
+      "scene_id": "s02_mechanism",
+      "label": "simple_rule",
+      "speed": 0.95,
+      "pause_after_ms": 180,
+      "text": "The renewal trap is simple."
+    },
+    {
+      "scene_id": "s02_mechanism",
+      "label": "not_this",
+      "speed": 1.07,
+      "pause_after_ms": 120,
+      "text": "Your new mortgage payment is not compared with the highest rate you saw on the news last year."
+    },
+    {
+      "scene_id": "s02_mechanism",
+      "label": "but_this",
+      "speed": 0.98,
+      "pause_after_ms": 300,
+      "text": "It is compared with the rate you locked in years ago."
+    },
+    {
+      "scene_id": "s03_contradiction",
+      "label": "cheap_money",
+      "speed": 1.05,
+      "pause_after_ms": 120,
+      "text": "So if you bought or renewed when money was unusually cheap,"
+    },
+    {
+      "scene_id": "s03_contradiction",
+      "label": "contradiction",
+      "speed": 0.97,
+      "pause_after_ms": 360,
+      "text": "today's rate can be lower than the peak, but still much higher than your old deal."
+    },
+    {
+      "scene_id": "s04_toll_booth",
+      "label": "metaphor",
+      "speed": 0.93,
+      "pause_after_ms": 180,
+      "text": "Think of it like reaching a toll booth."
+    },
+    {
+      "scene_id": "s04_toll_booth",
+      "label": "landing",
+      "speed": 0.96,
+      "pause_after_ms": 0,
+      "text": "The road ahead may be cheaper than last month, but still more expensive than the road you were already on."
+    }
+  ]
+}
