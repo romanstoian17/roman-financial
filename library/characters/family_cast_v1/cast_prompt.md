@@ -1,6 +1,6 @@
 # Roman Financial Family Cast V1
 
-Use this recurring family cast for story-based Roman Financial scenes. The characters are family-inspired, not exact portraits. Keep them simplified, public-safe, and consistent through repeated visual anchors.
+Use this recurring family cast for story-based Roman Financial scenes. The characters are family-inspired, not exact portraits. Keep them simplified, public-safe, and consistent through repeated visual anchors. Use `family_lineup_v1_reference.png` as the primary visual anchor when generating scenes with multiple family members.
 
 ## Shared Style
 
@@ -32,3 +32,4 @@ Do not make characters photorealistic. Do not copy real photos exactly. Avoid lo
 - `wife_v3_reference.png`
 - `daughter_v1_reference.png`
 - `son_v1_reference.png`
+- `family_lineup_v1_reference.png`
