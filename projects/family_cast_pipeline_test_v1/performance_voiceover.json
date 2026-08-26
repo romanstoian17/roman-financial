@@ -1,0 +1,82 @@
+{
+  "direction": "Short family-cast pipeline test using Fish option 17 and approved micro-beat pacing. Personal, honest, not boastful.",
+  "segments": [
+    {
+      "scene_id": "s01_arrival",
+      "label": "arrival",
+      "speed": 0.97,
+      "pause_after_ms": 260,
+      "text": "In 2022, we came to Canada from Ukraine with two kids."
+    },
+    {
+      "scene_id": "s01_arrival",
+      "label": "old_car",
+      "speed": 0.94,
+      "pause_after_ms": 380,
+      "text": "Almost all the money we had went into an old car."
+    },
+    {
+      "scene_id": "s02_impossible_prices",
+      "label": "renting",
+      "speed": 1.0,
+      "pause_after_ms": 180,
+      "text": "We were renting. We had left our apartment back home."
+    },
+    {
+      "scene_id": "s02_impossible_prices",
+      "label": "house_prices",
+      "speed": 1.05,
+      "pause_after_ms": 160,
+      "text": "And when I saw houses selling for eight hundred thousand, nine hundred thousand, even a million dollars,"
+    },
+    {
+      "scene_id": "s02_impossible_prices",
+      "label": "impossible",
+      "speed": 0.86,
+      "pause_after_ms": 560,
+      "text": "I remember thinking, this is not difficult. This is impossible."
+    },
+    {
+      "scene_id": "s03_try_anyway",
+      "label": "panic_passed",
+      "speed": 0.94,
+      "pause_after_ms": 240,
+      "text": "But after the panic passed, my wife and I made one decision."
+    },
+    {
+      "scene_id": "s03_try_anyway",
+      "label": "try_anyway",
+      "speed": 0.88,
+      "pause_after_ms": 520,
+      "text": "Maybe it is impossible. But let's still try."
+    },
+    {
+      "scene_id": "s04_learning_system",
+      "label": "no_investing",
+      "speed": 0.99,
+      "pause_after_ms": 140,
+      "text": "Back in Ukraine, we had never really invested."
+    },
+    {
+      "scene_id": "s04_learning_system",
+      "label": "research",
+      "speed": 1.05,
+      "pause_after_ms": 120,
+      "text": "So in Canada, I started researching like someone who was already late."
+    },
+    {
+      "scene_id": "s04_learning_system",
+      "label": "tools",
+      "speed": 1.08,
+      "pause_after_ms": 260,
+      "text": "Brokers. Employer matching. Cash-back accounts. Credit. Taxes. And then I found something important."
+    },
+    {
+      "scene_id": "s04_learning_system",
+      "label": "not_pro",
+      "speed": 0.88,
+      "pause_after_ms": 0,
+      "text": "You do not need to be a professional investor to begin."
+    }
+  ]
+}

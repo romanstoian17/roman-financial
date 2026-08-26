@@ -12,7 +12,7 @@ Family-inspired Roman character, adult Ukrainian-Canadian father and finance sto
 
 ## Wife
 
-Family-inspired wife and mother character, slim graceful silhouette, medium-length rich dark brown hair with soft waves and a soft center or slight side part, warm fair complexion, thoughtful eyes, soft attractive rounded face, gentle practical smile with quiet confidence, small simple earrings, optional small necklace, fitted deep teal knit top or fine sweater, high-waisted flowing rust/coral midi skirt, thin belt, comfortable stylish ankle boots or flats.
+Family-inspired wife and mother character, slim graceful silhouette, medium-length rich dark brown hair with soft waves and a soft center or slight side part, warm fair complexion, thoughtful eyes, soft attractive rounded face, gentle practical smile with quiet confidence, small simple earrings, optional small necklace, coral/rust wrap blouse or fitted soft cardigan over a cream top, elegant dark A-line skirt or tailored dark trousers, comfortable stylish flats.
 
 ## Daughter
 
@@ -39,8 +39,8 @@ Do not make characters photorealistic. Do not copy real photos exactly. Avoid lo
 ## References
 
 - `roman_v1_reference.png`
-- `wife_v5_wardrobe_reference.png`
 - `wife_v3_reference.png`
+- `wife_v5_wardrobe_reference.png`
 - `daughter_v1_reference.png`
 - `son_v1_reference.png`
 - `family_lineup_v1_reference.png`

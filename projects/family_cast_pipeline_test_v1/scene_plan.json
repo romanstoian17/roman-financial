@@ -1,0 +1,28 @@
+{
+  "scenes": [
+    {
+      "id": "s01_arrival",
+      "narration": "In 2022, we came to Canada from Ukraine with two kids. Almost all the money we had went into an old car.",
+      "visual": "Roman Financial family arriving in Canada with luggage beside an older used car near a modest rental home.",
+      "motion": "hold_then_push"
+    },
+    {
+      "id": "s02_impossible_prices",
+      "narration": "We were renting. We had left our apartment back home. And when I saw houses selling for eight hundred thousand, nine hundred thousand, even a million dollars, I remember thinking, this is not difficult. This is impossible.",
+      "visual": "Family in a modest rental kitchen looking at abstract housing prices on a laptop and papers, with no readable text.",
+      "motion": "push_in"
+    },
+    {
+      "id": "s03_try_anyway",
+      "narration": "But after the panic passed, my wife and I made one decision. Maybe it is impossible. But let's still try.",
+      "visual": "Roman and wife at the kitchen table making a plan while the kids are nearby, determined but calm.",
+      "motion": "push_then_hold"
+    },
+    {
+      "id": "s04_learning_system",
+      "narration": "Back in Ukraine, we had never really invested. So in Canada, I started researching like someone who was already late. Brokers. Employer matching. Cash-back accounts. Credit. Taxes. And then I found something important. You do not need to be a professional investor to begin.",
+      "visual": "Late-night newcomer finance research scene with Roman, simple abstract icons for brokers, employer matching, cashback, credit, taxes, and beginner investing.",
+      "motion": "pan_right"
+    }
+  ]
+}
