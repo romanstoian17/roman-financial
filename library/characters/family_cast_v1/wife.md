@@ -17,7 +17,8 @@ Inspired by real family photos, but not an exact portrait. Keep her simplified, 
 - Soft rounded face.
 - Gentle practical smile with a quietly confident presence.
 - Slim, graceful silhouette.
-- Signature clothing: coral/rust wrap blouse or fitted soft cardigan over a cream top, elegant dark A-line skirt or tailored dark trousers, comfortable stylish flats.
+- Preferred clothing: fitted deep teal knit top or fine sweater, high-waisted flowing rust/coral midi skirt, thin belt, comfortable stylish ankle boots or flats.
+- Alternate clothing: coral/rust wrap blouse or fitted soft cardigan over a cream top, elegant dark A-line skirt or tailored dark trousers.
 - Signature detail: small simple earrings and optional small necklace.
 
 ## Style
@@ -26,7 +27,7 @@ Colorful graphic novel ink-wash finance explainer style, expressive graphite ink
 
 ## Prompt Block
 
-Family-inspired wife and mother character, slim graceful silhouette, medium-length rich dark brown hair with soft waves and a soft center or slight side part, warm fair complexion, thoughtful eyes, soft attractive rounded face, gentle practical smile with quiet confidence, small simple earrings, optional small necklace, coral/rust wrap blouse or fitted soft cardigan over a cream top, elegant dark A-line skirt or tailored dark trousers, comfortable stylish flats, modest polished casual clothing, colorful graphic novel ink-wash finance explainer style, expressive graphite ink lines, watercolor texture, warm cream paper, public-safe and easy to regenerate consistently.
+Family-inspired wife and mother character, slim graceful silhouette, medium-length rich dark brown hair with soft waves and a soft center or slight side part, warm fair complexion, thoughtful eyes, soft attractive rounded face, gentle practical smile with quiet confidence, small simple earrings, optional small necklace, fitted deep teal knit top or fine sweater, high-waisted flowing rust/coral midi skirt, thin belt, comfortable stylish ankle boots or flats, modest polished casual clothing, colorful graphic novel ink-wash finance explainer style, expressive graphite ink lines, watercolor texture, warm cream paper, public-safe and easy to regenerate consistently.
 
 ## Avoid
 
@@ -37,7 +38,15 @@ Family-inspired wife and mother character, slim graceful silhouette, medium-leng
 - Do not use sunglasses unless the scene specifically needs them.
 - Avoid logos, readable text, distorted hands, and exaggerated proportions.
 
+## Style Alternatives
+
+- V5 is the current preferred wardrobe version: teal knit top, rust/coral midi skirt, belt, ankle boots/flats.
+- V3 is the earlier preferred version: appealing, clean, and repeatable.
+- V4 is a more mature editorial ink-wash alternative with softer natural rendering and less flat reference-sheet styling.
+
 ## Reference
 
-- Preferred: `wife_v3_reference.png`
+- Preferred wardrobe: `wife_v5_wardrobe_reference.png`
+- Earlier preferred: `wife_v3_reference.png`
+- Alternative: `wife_v4_style_alt_reference.png`
 - Earlier version: `wife_v1_reference.png`

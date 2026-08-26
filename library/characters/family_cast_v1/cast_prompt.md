@@ -12,7 +12,7 @@ Family-inspired Roman character, adult Ukrainian-Canadian father and finance sto
 
 ## Wife
 
-Family-inspired wife and mother character, slim graceful silhouette, medium-length rich dark brown hair with soft waves and a soft center or slight side part, warm fair complexion, thoughtful eyes, soft attractive rounded face, gentle practical smile with quiet confidence, small simple earrings, optional small necklace, coral/rust wrap blouse or fitted soft cardigan over a cream top, elegant dark A-line skirt or tailored dark trousers, comfortable stylish flats.
+Family-inspired wife and mother character, slim graceful silhouette, medium-length rich dark brown hair with soft waves and a soft center or slight side part, warm fair complexion, thoughtful eyes, soft attractive rounded face, gentle practical smile with quiet confidence, small simple earrings, optional small necklace, fitted deep teal knit top or fine sweater, high-waisted flowing rust/coral midi skirt, thin belt, comfortable stylish ankle boots or flats.
 
 ## Daughter
 
@@ -26,9 +26,20 @@ Family-inspired 8-year-old son character, short light-blond hair with slightly m
 
 Do not make characters photorealistic. Do not copy real photos exactly. Avoid logos, readable text, watermarks, distorted hands, extra fingers, inconsistent ages, overly glamorous styling, and overly childish proportions.
 
+## Scene Prompt Guardrails
+
+- Always lock the children ages: `17-year-old daughter` and `8-year-old son`.
+- For the daughter, add: `teenage proportions, not adult, no glamour styling`.
+- For the wife, add: `natural, modest, appealing but not glamorous`.
+- Prefer medium-wide framing when all four family members appear.
+- Avoid too many visible hands in crowded table scenes.
+- Keep documents, laptops, and signs abstract with no readable text.
+- Review generated scenes manually before using them in a final video.
+
 ## References
 
 - `roman_v1_reference.png`
+- `wife_v5_wardrobe_reference.png`
 - `wife_v3_reference.png`
 - `daughter_v1_reference.png`
 - `son_v1_reference.png`
