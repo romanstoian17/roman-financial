@@ -41,7 +41,8 @@ Expected files:
 
 3. Write `script.md` and `voiceover.txt`.
 
-4. Run finance review before generating media.
+4. Run script story-quality review and finance review before generating media:
+   `python scripts/review_script_quality.py --project pay_off_debt_or_invest_first`
 
 5. Generate scene prompts in `scene_plan.json`.
 
@@ -64,4 +65,3 @@ Fish Audio uses:
 - Voice/reference settings from `pipeline_config.json`.
 
 Do not commit `.env.local`.
-
