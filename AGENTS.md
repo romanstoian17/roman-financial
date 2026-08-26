@@ -23,7 +23,7 @@ Never hardcode API keys, cookies, passwords, or account tokens. Use `.env.local`
 
 1. **Planning Producer** decides what to handle first, resolves dependencies, and writes the next execution plan.
 2. **Topic Strategist** chooses episode topics and builds topic briefs.
-3. **Script Writer** turns a topic brief into a hook, story context, framework, example, and CTA.
+3. **Script Writer** turns a topic brief into a compelling spoken YouTube story, choosing the strongest hook, tension, scene moments, useful compression, payoff, and CTA while preserving factual accuracy.
 4. **Finance Reviewer** checks accuracy, compliance language, and source needs.
 5. **Character Director** keeps Roman visually and tonally consistent.
 6. **Image Producer** writes scene prompts and tracks generated image assets.
@@ -35,4 +35,3 @@ Never hardcode API keys, cookies, passwords, or account tokens. Use `.env.local`
 ## Default Human Approval Gates
 
 Ask before publishing, spending money, using personal account credentials, changing permanent channel branding, or treating regulated financial advice as personalized guidance.
-

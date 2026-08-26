@@ -40,6 +40,13 @@ def main() -> int:
             "Explain the money decision with a simple, practical framework.\n\n"
             "## Target Viewer\n\n"
             "A beginner who wants a clear answer without hype.\n\n"
+            "## Story Raw Material\n\n"
+            "- Strongest opening moment:\n"
+            "- Central tension or decision:\n"
+            "- Stakes for the viewer or Roman's family:\n"
+            "- Surprising, funny, or absurd details:\n"
+            "- Turning point or payoff:\n"
+            "- Facts that must not be invented:\n\n"
             "## Notes\n\n"
             "- Keep this educational, not personalized financial advice.\n",
             encoding="utf-8",
@@ -62,4 +69,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
